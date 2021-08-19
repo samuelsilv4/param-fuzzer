@@ -1,13 +1,7 @@
-#   ___       ____ _____ 
-#  / _ \__  _| ___|___ / 
-# | | | \ \/ /___ \ |_ \ 
-# | |_| |>  < ___) |__) |
-#  \___//_/\_\____/____/
-#
-# Param-Fuzzer -> By 0x53.
-# Twitter: @0x53oficial
-# GitHub: https://github.com/0x53oficial/
-# Website: https://0x53.me/
+# Param-Fuzzer -> By Samuel Silva.
+# Twitter: @0xssilva
+# GitHub: https://github.com/samuelsilv4/
+
 
 try:
     import requests, argparse;
